@@ -1,0 +1,16 @@
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\bin\Debug\net6.0\SEMINAR1Home.exe
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\bin\Debug\net6.0\SEMINAR1Home.deps.json
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\bin\Debug\net6.0\SEMINAR1Home.runtimeconfig.json
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\bin\Debug\net6.0\SEMINAR1Home.dll
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\bin\Debug\net6.0\ref\SEMINAR1Home.dll
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\bin\Debug\net6.0\SEMINAR1Home.pdb
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.GlobalUsings.g.cs
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.csproj.AssemblyReference.cache
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.AssemblyInfoInputs.cache
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.AssemblyInfo.cs
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.dll
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\ref\SEMINAR1Home.dll
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.pdb
+C:\Users\Станислав\Desktop\SEMINAR__C#\SEM1\SEMINAR1Home\obj\Debug\net6.0\SEMINAR1Home.genruntimeconfig.cache
