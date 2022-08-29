@@ -68,16 +68,17 @@ else{
  //является ли число чётным (делится ли оно на два без остатка)
        
        
-       //Ввод данных, вычисление
-        {
-                Console.WriteLine("Введите число : ");
-                int a = Convert.ToInt32(Console.Read());
+Console.Write("Введите число : ");
+int a = Convert.ToInt32(Console.Read());
                 
-       //Вывод на экран         
-                if (a % 2 == 0) Console.WriteLine("ДА, четное");
-                else Console.WriteLine("НЕТ,нечетное");
-                Console.ReadLine();
-        }
+if (a % 2 == 0) 
+{
+    Console.WriteLine("Четное");
+} else 
+{
+     Console.WriteLine("Нечетное");
+}
+   
 */
 
 
